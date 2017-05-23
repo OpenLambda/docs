@@ -1,0 +1,2 @@
+# docs
+Open Lambda documentation
