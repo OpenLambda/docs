@@ -11,7 +11,7 @@ Open Lambda is an open source project inspired by this idea.
  
  ### Vision
  
- Core vision of the Open Lambda project is `Functions everywhere`. 
+ Core vision of the Open Lambda project is `Pure Functions Everywhere`. 
  Therefore the goal is to enable running functions written in any language on any platform to accomplish 
  any task without the overhead of managing the platform by your self. Functional layer of any app can and should be 
  separated from the concerns about managing the underlying platform from the perspective of 
@@ -35,7 +35,7 @@ Open Lambda is an open source project inspired by this idea.
  ```
  
  Open Lambda while accomplishing this goal, will go further in helping users to 
- structure there programs better with `pure functions` as the basic building block.
+ structure their programs better with `pure functions` as the basic building block. 
  
  ```
                    +------------------------------------------------------+
